@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git4 hot-fix分支修改!");
         System.out.println("hello git5 master分支修改!");
         System.out.println("hello git6 master分支第五次修改!");
+        System.out.println("hello git4 hot-fix分支第三次修改!");
     }
 }
